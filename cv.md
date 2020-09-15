@@ -25,7 +25,8 @@ Phone: +375 29 690-57-34
 
 ## EDUCATION
 1. ### Belarusian State University
-Master's degree, finance and credit
+Master's degree 
+Finance and credit
 
 2006 - 2013
 1. ### Академия BELHARD

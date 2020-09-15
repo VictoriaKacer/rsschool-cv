@@ -1,2 +1,1 @@
-# rsschool-cv
-init: start markdown &amp; git task
+https://victoriakacer.github.io/rsschool-cv/cv

@@ -1,0 +1,21 @@
+.block-color {
+    background-color: lightseagreen;
+}
+
+.name {
+    font: italic bold 7em Arial, serif color;
+    text-align: center;
+}
+
+.main-avatar {
+    float: left;
+}
+
+.block {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.solid-border-body {
+    border: 1px solid lightseagreen
+}

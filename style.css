@@ -2,8 +2,9 @@
     background-color: lightseagreen;
 }
 
-.center {
-    margin: auto;
+.box {
+    display: inline-block;
+    margin-right: -0.25em;
 }
 
 .name {
@@ -18,9 +19,13 @@
 .block {
     display: inline-block;
     vertical-align: middle;
-    font-size: 10em; 
+    font-size: 20px;
 }
 
 .solid-border-body {
     border: 1px solid lightseagreen
+}
+
+#lastBox {
+    margin-left: 50px;
 }

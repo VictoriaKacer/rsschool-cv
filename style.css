@@ -2,6 +2,10 @@
     background-color: lightseagreen;
 }
 
+.center {
+    margin: auto;
+}
+
 .name {
     font: italic bold 7em Arial, serif color;
     text-align: center;
